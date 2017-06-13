@@ -6,3 +6,7 @@
 [Assignment Week 6](https://github.com/ZHANGXURU/assignments/blob/master/assignment4.ipynb)
 
 [Assignmnet week 8](https://github.com/ZHANGXURU/112/blob/master/assignment5.ipynb)
+
+Final assignment R: https://github.com/ZHANGXURU/112/blob/master/OECD_R_exam.ipynb
+
+Final assignment python : https://github.com/ZHANGXURU/112/blob/master/Final_Assignment_Python_1_students.ipynb
